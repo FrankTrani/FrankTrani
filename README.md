@@ -80,7 +80,7 @@ Hello! I'm **Frank Trani**, a passionate computer science student with a keen in
 
 ## 📫 Get in Touch
 
-- **Email:** [your.email@example.com](mailto:franktrani7887@gmail.com)
+- **Email:** [franktrani7887@gmail.com](mailto:franktrani7887@gmail.com)
 - **LinkedIn:** [linkedin.com/in/frank-trani-a7ba35281](https://www.linkedin.com/in/frank-trani-a7ba35281/)
 - **Website/Portfolio:** [ftrani.com](https://ftrani.com)
 
