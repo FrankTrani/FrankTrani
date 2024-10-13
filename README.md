@@ -11,7 +11,7 @@
 
 Hello! I'm **Frank Trani**, a passionate computer science student with a keen interest in **Cybersecurity** and **Artificial Intelligence**. Welcome to my GitHub repository where I showcase my projects, share ideas, and contribute to the open-source community.
 
-- 🔭 I’m currently working on **[Placeholder](#)**
+- 🔭 I’m currently working on **[Stock Prediction and Stock Movement using machine learning](#)**
 - 🌱 I’m currently learning **Cryptology Algorithms and Encryption**
 - 😄 Pronouns: **He/Him**
 
@@ -55,10 +55,15 @@ Hello! I'm **Frank Trani**, a passionate computer science student with a keen in
 
 ## 🚀 Projects
 
-### [Placeholder](https://github.com/FrankTrani/)
+### [My Website](https://github.com/FrankTrani/FrankTrani.github.io)
 
-- **Description:** ---
-- **Technologies:** ---
+- **Description:** My personal portfolio.
+- **Technologies:** Jekyll, CSS, HTML, Javascript
+- 
+### [AutoTyper](https://github.com/FrankTrani/AutoTyper)
+
+- **Description:** Automates repetitive typing tasks with customizable configurations.
+- **Technologies:** Python
 
 
 ## 📊 GitHub Stats
