@@ -11,7 +11,7 @@
 
 Hello! I'm **Frank Trani**, a passionate computer science student with a keen interest in **Cybersecurity** and **Artificial Intelligence**. Welcome to my GitHub repository where I showcase my projects, share ideas, and contribute to the open-source community.
 
-- 🔭 I’m currently working on **[Stock Prediction and Stock Movement using machine learning](#)**
+- 🔭 I’m currently working on **[Stock Prediction and Stock Movement using machine learning](https://github.com/FrankTrani/Stock-Prediction)**
 - 🌱 I’m currently learning **Cryptology Algorithms and Encryption**
 - 😄 Pronouns: **He/Him**
 
